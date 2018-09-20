@@ -1,2 +1,2 @@
-# stickler-theif
-generalize solution of stickler theif
+# stickler-thief
+generalize solution of stickler thief
